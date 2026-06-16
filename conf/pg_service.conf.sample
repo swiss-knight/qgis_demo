@@ -1,0 +1,6 @@
+[demo_qgis]
+  host=db
+  port=5432
+  dbname=foo
+  user=postgres
+  password=CHANGEME
